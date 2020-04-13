@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSSampleServerLess", "AWSSampleServerLess.csproj", "{FADF62E3-753C-40E9-9D02-17A689B1139B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FADF62E3-753C-40E9-9D02-17A689B1139B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADF62E3-753C-40E9-9D02-17A689B1139B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADF62E3-753C-40E9-9D02-17A689B1139B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADF62E3-753C-40E9-9D02-17A689B1139B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F264215-D49B-4FEE-9804-4A6CF16ABC8B}
+	EndGlobalSection
+EndGlobal
